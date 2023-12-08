@@ -5,7 +5,7 @@
 - Motivator 🍾
 - Visionary 🎨
 - Philanthropist ❤
-`<br>`
+<br>
 Oh wait… this isn’t LinkedIn
 
 
