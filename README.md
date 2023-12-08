@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @VaticanMemes
-- 👀 I’m a little pervert
-- 🌱 I never touch grass
-- 💞️ I have no friends
-- 📫 And no one's gonna reach out to me either
+- Cryptocurrency enthusiast 💰
+- Entrepreneur 💸
+- Influencer 💃
+- Inspirational speaker 🗣
+- Motivator 🍾
+- Visionary 🎨
+- Philanthropist ❤
+Oh wait… this isn’t LinkedIn
+
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/vaticanmemes/count.svg" />
