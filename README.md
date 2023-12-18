@@ -5,9 +5,11 @@
 - Motivator 🍾
 - Visionary 🎨
 - Philanthropist ❤
-<br>
+
 Oh wait… this isn’t LinkedIn
 
+#### Email: 
+popeharryviii@gmail.com
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/vaticanmemes/count.svg" />
