@@ -1,3 +1,4 @@
+<b>Who am I?</b>
 - Cryptocurrency enthusiast 💰
 - Entrepreneur 💸
 - Influencer 💃
@@ -8,10 +9,10 @@
 
 Oh wait… this isn’t LinkedIn
 
-#### Email: 
+<b>Email:</b> <br>
 popeharryviii@gmail.com
 
-### Visitor count
+<b>Visitor count:</b> <br>
 <img src="https://profile-counter.glitch.me/vaticanmemes/count.svg" />
 
 <!---
