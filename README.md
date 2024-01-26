@@ -22,6 +22,7 @@ _Python is the wife we wanted but never got_
 - 📝 [To-do list](https://vaticanmemes.github.io/motherfucking-to-do-list/)
 - 🐨 [Random koala](https://vaticanmemes.github.io/random-koala/)
 - 💸 [Stock website](https://vaticanmemes.github.io/stock-website/)
+- 📈 [Simple math test tracker](https://vaticanmemes.github.io/simple-math-test-tracker/)
 
 All of these projects are rushed and underwhelming so beware (especially the stock website, which literally just gives you the price of the stock 🤷)
 
